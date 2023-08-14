@@ -13,7 +13,5 @@
     java -jar gs-spring-boot-0.1.0.jar
 
 
-    hi this is kalyan kumar 
-    your life is gone 
-    just kidding kalyan 
+
     
